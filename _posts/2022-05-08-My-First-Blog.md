@@ -1,16 +1,13 @@
 ---
 layout:     post
-title:      ReactiveCocoa 进阶
-subtitle:   函数式编程框架 ReactiveCocoa 进阶
-date:       2017-01-06
+title:      Hello My First Blog
+subtitle:   我的第一条博客
+date:       2022-05-08
 author:     BY
-header-img: img/post-bg-ios9-web.jpg
+header-img: img/post-bg-2015.jpg
 catalog: true
 tags:
-    - iOS
-    - ReactiveCocoa
-    - 函数式编程
-    - 开源框架
+    - Blog
 ---
 # 前言
 
