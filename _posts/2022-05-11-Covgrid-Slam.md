@@ -15,9 +15,6 @@ tags:
 
 >本篇博客回顾硕士期间做过的一些工作：激光雷达SLAM。
 
-框架
-![算法整体框架](../img/covgrid_slam/all_struct.png)
-
 ## 前言
 
 这是我在研一接触的一项工作，基于激光雷达的车辆定位。这个项目是师兄基于一项比赛来做的，主要目的是实现无人车辆在越野环境下的无GPS定位。
@@ -26,7 +23,7 @@ tags:
 
 <center>
 
-<img src="../img/covgrid_slam/all_struct.png" alt="" width="60%" height="60%" align="算法整体框架" />
+<img src="https://raw.githubusercontent.com/qiubaiying/Dysonsun.github.io/master/img/)covgrid_slam/all_struct.png" alt="" width="60%" height="60%" align="算法整体框架" />
 </center>
 
 ## 硬件
