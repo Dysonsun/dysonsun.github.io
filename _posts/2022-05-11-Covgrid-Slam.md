@@ -15,7 +15,8 @@ tags:
 
 >本篇博客回顾硕士期间做过的一些工作：激光雷达SLAM。
 
-![](../img/covgrid_slam/all_struct.png)
+框架
+![算法整体框架](../img/covgrid_slam/all_struct.png)
 
 ## 前言
 
