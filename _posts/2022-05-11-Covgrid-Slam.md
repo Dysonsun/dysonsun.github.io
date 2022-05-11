@@ -23,7 +23,7 @@ tags:
 
 <center>
 
-<img src="https://raw.githubusercontent.com/qiubaiying/Dysonsun.github.io/master/img/)covgrid_slam/all_struct.png" alt="" width="60%" height="60%" align="算法整体框架" />
+<img src="https://raw.githubusercontent.com/qiubaiying/Dysonsun.github.io/master/img/covgrid_slam/all_struct.png" alt="" width="60%" height="60%" align="算法整体框架" />
 </center>
 
 ## 硬件
