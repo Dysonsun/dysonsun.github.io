@@ -3,7 +3,7 @@ layout:     post
 title:      Hello My First Blog
 subtitle:   我的第一条博客
 date:       2022-05-08
-author:     SD
+author:     Sun Dong
 header-img: img/post-bg-2015.jpg
 catalog: true
 tags:

@@ -4,7 +4,7 @@ title:      硕士期间工作回顾1:Covgrid Slam
 subtitle:   硕士期间工作回顾1
 date:       2022-05-11
 author:     Sun Dong
-header-img: img/covgrid_slam/pointcloud.png
+header-img: img/covgrid_slam/map.jpg
 catalog: true
 tags:
     - Lidar
@@ -14,6 +14,8 @@ tags:
 ---
 
 >本篇博客回顾硕士期间做过的一些工作：激光雷达SLAM。
+
+![](../img/covgrid_slam/all_struct.png)
 
 ## 前言
 
